@@ -1,0 +1,9 @@
+{
+    "name": "CursoNode",
+    "description": "Este es el curso de Node en DevCode.la",
+    "author": "Victor Ruiz",
+    "dependencies": {
+        "express": "^4.16.4"
+    },
+    "devDependencies": {}
+}
