@@ -1,0 +1,14 @@
+supervisor
+=========
+//módulo que sirve para dejar ejecutando comandos eternamente
+
+npm install -g supervisor
+
+//cada vez que se quiera correr el server de express se ejecuta lo siguiente
+
+supervisor [nombre del archivo de configuración del servidor]
+
+//para usar autentificación con cuentas de redes sociales
+//se trabaja con un módulo de node llamado passport
+
+npm install passport --save
